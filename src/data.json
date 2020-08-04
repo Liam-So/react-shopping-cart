@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "_id": "s1",
+            "title": "Acne Studios",
+            "image" : "/images/sweater1.jpg",
+            "description": "Long sleeve viscose and cotton-blend fleece sweatshirt in black. Rib knit crewneck collar featuring jacquard logo pattern in white. Rib knit cuffs and hem.",
+            "price": 199.99,
+            "availableSizes": ["XL", "XXL"]
+        },
+        {
+            "_id": "s2",
+            "title": "Aimé Leon Dore",
+            "image" : "/images/sweater2.jpg",
+            "description": "Long sleeve French terry sweatshirt colorblocked in off-white and navy. Overlock stitch detailing in red throughout. Rib knit crewneck collar, cuffs, and hem. Logo embroidered in burgundy at chest.",
+            "price": 202.99,
+            "availableSizes": ["S", "XXL"]
+        },
+        {
+            "_id": "s3",
+            "title": "AMI Alexandre Mattiussi",
+            "image" : "/images/sweater3.jpg",
+            "description": "Long sleeve knit merino wool sweater in burgundy. Rib knit crewneck collar, cuffs, and hem. Intarsia knit graphic in red at chest.",
+            "price": 365.99,
+            "availableSizes": ["S", "M"]
+        },
+        {
+            "_id": "s4",
+            "title": "Stone Island",
+            "image" : "/images/sweater4.jpg",
+            "description": "Long sleeve intarsia knit nylon sweater in beige. Alternating knit pattern throughout. Rolled turtleneck collar. Detachable embroidered logo patch with button fastening at upper sleeve.",
+            "price": 765.99,
+            "availableSizes": ["S", "M", "L"]
+        },
+        {
+            "_id": "s5",
+            "title": "Heron Preston",
+            "image" : "/images/sweater5.jpg",
+            "description": "Long sleeve cotton jersey t-shirt in black. Rib knit mock-neck collar featuring logo embroidered in white. Textile logo patch in orange and embroidered logo in white at rib knit cuffs. Textile patch in white at back.",
+            "price": 503.99,
+            "availableSizes": ["S", "M"]
+        },
+        {
+            "_id": "s6",
+            "title": "Moncler",
+            "image" : "/images/sweater6.jpg",
+            "description": "Long sleeve down-filled quilted nylon satin jacket in black. Bungee-style drawstring, press-stud placket, and press-stud fastening at detachable hood. Stand collar. Two-way zip closure at front featuring alternate zip closure and textile appliqué striped in red, white, and navy. Flap pocket and felted logo appliqué in white, red, and navy at chest. Zippered welt pockets at waist. Adjustable press-stud tab at elasticized cuffs. Concealed bungee-style drawstring at hem. Twin welt pockets and textile graphic patch at interior. Fully lined. Logo-engraved silver-tone hardware.",
+            "price": 1065.99,
+            "availableSizes": ["S", "M"]
+        }
+    ]
+}
