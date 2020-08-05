@@ -22,7 +22,7 @@
             "image" : "/images/sweater3.jpg",
             "description": "Long sleeve knit merino wool sweater in burgundy. Rib knit crewneck collar, cuffs, and hem. Intarsia knit graphic in red at chest.",
             "price": 365.99,
-            "availableSizes": ["S", "M"]
+            "availableSizes": ["M"]
         },
         {
             "_id": "s4",
